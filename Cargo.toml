@@ -21,7 +21,7 @@ anyhow = { version = "1.0.58", optional = true }
 backtrace = { version = "0.3.66", optional = true }
 
 [dev-dependencies]
-fastrand = "^1.3"
+fastrand = "^2.0"
 
 # These are used for tests
 [[example]]
